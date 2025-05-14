@@ -5,4 +5,4 @@ refillSize: 120
 dailyDosage: 2
 plannedDosage: undefined
 refillPeriod: 60
-nextRefillDate: 06/03/202
+nextRefillDate: 06/03/2024
