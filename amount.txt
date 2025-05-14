@@ -1,4 +1,4 @@
-total: NaN
+total: 30.5
 pillSize: 30
 lastRefill: 05/14/2025
 refillSize: 120
