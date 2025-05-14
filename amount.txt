@@ -1,8 +1,8 @@
 total: 28.975
 pillSize: 30
-lastRefill: 04/03/2025
+lastRefill: 04/03/2
 refillSize: 120
 dailyDosage: 2
 plannedDosage: 1.5
 refillPeriod: 56
-nextRefillDate: 06/03/2025
+nextRefillDate: 05/29/1902
