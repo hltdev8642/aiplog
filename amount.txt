@@ -5,4 +5,4 @@ refillSize: 30
 dailyDosage: 2
 plannedDosage: 2
 refillPeriod: 30
-nextRefillDate: 05/08/2025
+nextRefillDate: 06/06/2025
