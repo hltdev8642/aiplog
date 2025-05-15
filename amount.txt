@@ -1,4 +1,4 @@
-total: 27.5
+total: 27.475
 pillSize: 30
 lastRefill: 04/08/2025
 refillSize: 120
